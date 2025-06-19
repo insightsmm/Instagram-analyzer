@@ -1,2 +1,5 @@
 streamlit
 pandas
+
+# Test dependencies
+pytest
