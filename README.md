@@ -1,19 +1,17 @@
-# :earth_americas: GDP dashboard template
+# ENGINE 30 landing page clone (Streamlit)
 
-A simple Streamlit app showing the GDP of different countries in the world.
+This repository now contains a Streamlit recreation of the public `engine30.insightsm.com` landing-page style experience.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+## Run locally
 
-### How to run it on your own machine
+1. Install dependencies:
 
-1. Install the requirements
+```bash
+pip install -r requirements.txt
+```
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+2. Launch app:
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+```bash
+streamlit run streamlit_app.py
+```
